@@ -1,0 +1,67 @@
+.titleStyle {
+
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.containerAll {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.imageStyle {
+
+    width: 35px;
+    position: relative;
+    top: 35px;
+    margin-left: 1em;
+}
+
+.textStyle {
+
+    color: white;
+
+}
+
+body {
+
+    background-color: rgba(122, 14, 211, 0.486);
+
+}
+
+.inputStyle {
+
+    margin-top: 1em;
+    text-align: center;
+}
+
+.inputStyle:hover, .inputStyle:active, .inputStyle:focus {
+
+    border: 1px solid black !important;
+    box-shadow: 2px 2px 1px 1px white !important;
+
+}
+
+.buttonStyle {
+
+    background-color: rgb(10, 186, 230);
+    color: white;
+    margin-top: 1em;
+    width: 50%;
+}
+
+.buttonStyle:hover, .buttonStyle:active, .buttonStyle:focus {
+
+    box-shadow: 2px 2px 1px 1px black !important;
+    background-color: rgb(10, 186, 230);
+}
+
+.short {
+
+    color: white;
+  
+
+}
